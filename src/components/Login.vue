@@ -110,6 +110,7 @@ export default {
             color: #fff;
             font-size: 18px;
             cursor: pointer;
+            /* alok */
         }
         .main1{
             height: 460px;
